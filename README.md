@@ -1,7 +1,7 @@
 # Hi There
 #### I am Hareendra, dual degree Computer Science and Engineering Core & BS Data Science at:
-[![Vellore Institute of Technology,Chennai](assets/logo1.png)](https://chennai.vit.ac.in/)<br>
-[![Indian Institute Of Technology,Madras](assets/logo2.png)](https://ds.study.iitm.ac.in/student_dashboard/profile#)<br>
+<span><img src="assets/logo1.png" alt="" style=" border-radius=50%"></span>![Vellore Institute of Technology,Chennai](https://chennai.vit.ac.in/)<br>
+<span><img src="assets/logo2.png" alt="" style=" border-radius=50%"></span>![Indian Institute Of Technology,Madras](https://ds.study.iitm.ac.in/student_dashboard/profile#)<br>
 - I know German
 - ![Here's my portfolio]()
 
@@ -14,7 +14,7 @@
 - Data Structure and Algorithm
 
 # 🏆Experience
--Intern@ [![ArcherWebSol](assets/logo3.jpg)](https://archerwebsol.com/) as Web developer and designer.
+-Intern@ <span><img src="assets/logo3.jpg" alt="" style=" border-radius=50%"></span>![ArcherWebSol](https://archerwebsol.com/) as Web developer and designer.
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hareendra-s)
