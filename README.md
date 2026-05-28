@@ -1,6 +1,6 @@
 # Hi There
 #### I am Hareendra, dual degree Computer Science and Engineering Core & BS Data Science at:
-<a href="https://chennai.vit.ac.in/"><img src="assets/logo1.png" alt="VIT Chennai" width="100" height="100"></a>
+<a href="https://chennai.vit.ac.in/"><img src="assets/logo1.png" alt="VIT Chennai" width="200" height="200"></a>
 <a href="https://ds.study.iitm.ac.in/student_dashboard/profile#"><img src="assets/logo2.png" alt="Indian Institute Of Technology,Madras" width="100" height="100"></a>
 - I know German
 - Here's my portfolio ![portfolio]()
