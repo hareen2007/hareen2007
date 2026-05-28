@@ -1,7 +1,7 @@
 # 👋 Hello there, exploring code, security, and everything in between.
 #### I am Hareendra, dual degree Computer Science and Engineering Core & BS Data Science at:
-<a href="https://chennai.vit.ac.in/"><img src="assets/logo1.png" alt="VIT Chennai" width="200" height="200"></a>
-<a href="https://ds.study.iitm.ac.in/student_dashboard/profile#"><img src="assets/logo2.png" alt="Indian Institute Of Technology,Madras" width="100" height="100"></a>
+<p align="center"><a href="https://chennai.vit.ac.in/"><img src="assets/logo1.png" alt="VIT Chennai" width="200" height="200"></a>
+<a href="https://ds.study.iitm.ac.in/student_dashboard/profile#"><img src="assets/logo2.png" alt="Indian Institute Of Technology,Madras" width="100" height="100"></a></p>
 - I know German
 - Here's my portfolio ![portfolio]()
 
@@ -37,7 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-![]()
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 🛠️Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -56,6 +56,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hareendra_hacker?theme=dark&font=Quantico&colors=%23121212%20%2C%20%23E0E0E0%2C%234CAF50%2C%20%23FFC107%2C%23F44336%2C%20%232196F3)
 
 # Git Status
-## Activity Graph
 [![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareen2007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-##
