@@ -3,7 +3,7 @@
 <p align="center"><a href="https://chennai.vit.ac.in/"><img src="assets/logo1.png" alt="VIT Chennai" width="200" height="200"></a>
 <a href="https://ds.study.iitm.ac.in/student_dashboard/profile#"><img src="assets/logo2.png" alt="Indian Institute Of Technology,Madras" width="100" height="100"></a></p>
 - I know German
-- Here's my portfolio ![portfolio]()
+- Here's my portfolio ![]()
 
 #### I build production ready Full-stack apps,ML models.
 #### I am currently learning 
