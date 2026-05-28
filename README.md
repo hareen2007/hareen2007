@@ -14,7 +14,7 @@
 - Data Structure and Algorithm
 
 # 🏆Experience
--Intern@ <span><img src="assets/logo3.jpg" alt="" style="border-radius=50%;"></span>![ArcherWebSol](https://archerwebsol.com/) as Web developer and designer.
+- Intern@ <a href="https://archerwebsol.com/"><img src="assets/logo3.jpg" alt="ArcherWebSol"></a> as Web developer and designer.
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hareendra-s)
