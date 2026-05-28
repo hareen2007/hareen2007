@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi There
+#### I am Hareendra, dual degree Computer Science and Engineering Core & BS Data Science at:
+[Vellore Institute of Technology,Chennai](https://chennai.vit.ac.in/)<br>
+[Indian Institute Of Technology,Madras](https://ds.study.iitm.ac.in/student_dashboard/)<br>
 
-<!--
-**hareen2007/hareen2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I build production ready Full-stack apps,ML models.
+#### I am currently learning 
+- Cybersecurity
+- Machine Learning
+- Aritificial Intelligence
+- Computer Vision
+- Data Structure and Algorithm
 
-Here are some ideas to get you started:
+#Experience
+-Intern@ [![ArcherWebSol]](https://archerwebsol.com/) as Web developer and designer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
