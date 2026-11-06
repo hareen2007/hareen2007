@@ -2,9 +2,8 @@
 # 👋 About Me
 <img align="right" src="https://komarev.com/ghpvc/?username=hareen2007&style=flat-square&color=b57614&label=views" height="25px" alt="profile views" />
 I'm Hareendra — a full-stack developer building across AI, web and ML.
-- Obsessed with clean and fast builds
 
-#### I am currently learning 
+#### I am interested in 
 - Cybersecurity
 - Machine Learning
 - Aritificial Intelligence
