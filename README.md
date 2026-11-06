@@ -127,9 +127,9 @@ A web-based invoice management application for creating and managing invoices, w
 
 ## 📜 Certifications
 
-- **Web Development Internship** — Archer WebSol (2026) — [View Certificate →](https://your-certificate-link)
-- **SQL Certification** — HackerRank (2026) — [View Certificate →](https://your-certificate-link)
-- **AWS Cloud Foundations** (2026) — [View Certificate →](https://your-certificate-link)
+- **Web Development Internship** — Archer WebSol (2026) — [View Certificate →](https://drive.google.com/file/d/12vCvvHKze4oIIX4_fLvXnPNTT-OItpok/view?usp=drive_link)
+- **SQL Certification** — HackerRank (2026) — [View Certificate →](https://drive.google.com/file/d/1-tzmUrrD_XHWlIsPHAFZ_PgaaU4EZoii/view?usp=drive_link)
+- **AWS Cloud Foundations** (2026) — [View Certificate →](https://drive.google.com/file/d/1JreuIZXYP7W2lwp8QkyZ6sITCzJAxa-K/view?usp=drive_link)
 
 <br>
 
@@ -174,5 +174,5 @@ Strengthening data structures & algorithms, building more full-stack MERN projec
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=100&section=footer" width="100%"/>
 
 <div align="center">
-<sub><a href="https://www.linkedin.com/in/hareendra-s">LinkedIn</a> · <a href="mailto:rtgshareen@gmail.com">Email</a> · <a href="https://github.com/hareen2007">GitHub</a> · <a href="https://leetcode.com/u/hareendra_hacker/">LeetCode</a></sub>
+<sub><a href="https://www.linkedin.com/in/hareendra-s">LinkedIn</a> · <a href="https://github.com/hareen2007">GitHub</a> · <a href="https://leetcode.com/u/hareendra_hacker/">LeetCode</a> · <a href="https://hareen-resume.vercel.app/">Portfolio</a> ·</sub>
 </div>
