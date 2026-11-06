@@ -126,9 +126,9 @@ A web-based invoice management application for creating and managing invoices, w
 
 ## 📜 Certifications
 
-- **Web Development Internship** — Archer WebSol (2026) — [View Certificate →]()
-- **SQL Certification** — HackerRank (2026) — [View Certificate →]()
-- **AWS Cloud Foundations** (2026) — [View Certificate →]()
+- **Web Development Internship** — Archer WebSol (2026) — [View Certificate →](https://drive.google.com/file/d/12vCvvHKze4oIIX4_fLvXnPNTT-OItpok/view?usp=sharing)
+- **SQL Certification** — HackerRank (2026) — [View Certificate →](https://drive.google.com/file/d/1-tzmUrrD_XHWlIsPHAFZ_PgaaU4EZoii/view?usp=drive_link)
+- **AWS Cloud Foundations** (2026) — [View Certificate →](https://drive.google.com/file/d/1JreuIZXYP7W2lwp8QkyZ6sITCzJAxa-K/view?usp=drive_link)
 
 <br>
 
