@@ -1,80 +1,178 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-# 👋 About Me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Hareendra%20S&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=dbeafe&animation=fadeIn" width="100%"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/hareendra-s"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rtgshareen@gmail.com"><img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/hareen2007"><img src="https://img.shields.io/badge/GitHub-1e40af?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/hareendra_hacker/"><img src="https://img.shields.io/badge/LeetCode-1e3a8a?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://hareen-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<sub>B.Tech Computer Science · VIT · B.S. Data Science · IIT Madras · Class of 2028</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=const+developer+%3D+%7B+name%3A+%22Hareendra%22+%7D%3B;building+full-stack+apps+with+the+MERN+stack;exploring+AI%2C+ML+%26+cybersecurity;solving+DSA+problems+on+LeetCode;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+
+</div>
+
+<br>
+
+## 👋 About Me
+
 <img align="right" src="https://komarev.com/ghpvc/?username=hareen2007&style=flat-square&color=b57614&label=views" height="25px" alt="profile views" />
-I'm Hareendra — a full-stack developer building across AI, web and ML.
 
-#### I am interested in 
-- Cybersecurity
-- Machine Learning
-- Aritificial Intelligence
-- Data Structures and Algorithm
+Computer Science undergraduate at **VIT** (CGPA 7.83/10) and a dual-degree student pursuing a **B.S. in Data Science at IIT Madras**. I build full-stack web applications with the **MERN stack**, and I'm interested in machine learning, AI, cybersecurity, and data structures & algorithms. Recently completed a MERN web development internship at Archer WebSol, and currently looking for an entry-level software development role where I can learn fast and ship practical software.
 
-# 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hareendra-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://hareen-resume.vercel.app/)
+<br>
 
+## 💼 Experience
 
-# 🏆Experience
-- Intern@ <a href="https://archerwebsol.com/"><img src="assets/logo3.jpg" alt="ArcherWebSol" width="100" height="100"></a> as Web developer and designer.
+**Web Development Intern — [Archer WebSol](https://archerwebsol.com/)** · On-site · May – Jul 2026
 
+- Built web solutions with the **MERN stack** to solve real business problems
+- Owned a feature end-to-end: design, implementation, testing, and delivery
+- Worked with senior developers to learn industry best practices in web development
 
-# 💻Tech Stack
-## Languages
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+## 🚀 Featured Projects
 
-## Database
+<table>
+<tr>
+<td width="100%">
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧾 Billify: A Solution for Easy Billing
 
-## Web Technologies
+<img src="https://img.shields.io/badge/React%2019-1e40af?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-1e40af?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-1e40af?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-1e40af?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-1e40af?style=flat-square&logo=mongodb&logoColor=white" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+**[Live Demo →](https://your-billify-deployment-link)** · **[GitHub Repo →](https://github.com/hareen2007/your-billify-repo)**
 
-## Frameworks & Libraries
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+A web-based invoice management application for creating and managing invoices, with database integration and a responsive user interface.
 
-## DevOps
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bash Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- Built the frontend with **React 19 + Vite** and a responsive, mobile-friendly UI
+- Developed the **Node.js + Express** REST backend with **MongoDB** for persistent invoice storage
+- Implemented full invoice create / view / manage workflows
 
-## 🛠️Tools
+</td>
+</tr>
+</table>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blac)
-<!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
+<!-- Add new projects above in the same format as you build them -->
 
-## Operating System
+<br>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+## 🛠️ Tech Stack
 
-## Hosting frameworks
+<div align="center">
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+**💻 Languages**
 
-#  LeetCode Status
-![LeetCode Stats](https://leetcard.jacoblin.cool/hareendra_hacker?theme=dark&font=Quantico&colors=%23121212%20%2C%20%23E0E0E0%2C%234CAF50%2C%20%23FFC107%2C%23F44336%2C%20%232196F3)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 
-# GitHub Status
-![](https://github-readme-stats.shion.dev/api?username=hareen2007&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hareen2007&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hareen2007&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br><br>
 
+**🎨 Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<br><br>
+
+**⚙️ Backend**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logoColor=white" />
+
+<br><br>
+
+**🗄️ Databases**
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<br><br>
+
+**☁️ Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
+
+</div>
+
+<br>
+
+<table>
+<tr><td><strong>Core CS</strong></td><td>Data Structures & Algorithms · Software Engineering · Agile Development · Cloud Computing</td></tr>
+<tr><td><strong>Interests</strong></td><td>Machine Learning · Artificial Intelligence · Cybersecurity · Full-Stack Development</td></tr>
+</table>
+
+<br>
+
+## 🎓 Education
+
+- **B.Tech, Computer Science** — Vellore Institute of Technology · 2024 – 2028 · CGPA 7.83 / 10
+- **B.S., Data Science** — Indian Institute of Technology Madras · 2024 – 2028
+
+<br>
+
+## 🏆 Achievements
+
+- 🥇 **1st Place** — QualityWeek BIS Quiz, VIT (2026)
+- 🏅 **Gold Badge in Java** — HackerRank (2025)
+
+<br>
+
+## 📜 Certifications
+
+- **Web Development Internship** — Archer WebSol (2026) — [View Certificate →](https://your-certificate-link)
+- **SQL Certification** — HackerRank (2026) — [View Certificate →](https://your-certificate-link)
+- **AWS Cloud Foundations** (2026) — [View Certificate →](https://your-certificate-link)
+
+<br>
+
+## 📊 LeetCode & GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hareen2007/hareen2007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hareen2007/hareen2007/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hareen2007/hareen2007/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/hareendra_hacker?theme=dark&font=baloo2" width="500" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=hareen2007&theme=dark&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hareen2007&theme=react-dark&hide_border=true&color=c9d1d9&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6" width="100%"/>
+
+</div>
+
+<br>
+
+## 🎯 Currently Focused On
+
+Strengthening data structures & algorithms, building more full-stack MERN projects, and exploring machine learning and cybersecurity.
+
+<br>
+
+## 🤝 Open to
+
+`Entry-level software roles` &nbsp;·&nbsp; `Internships` &nbsp;·&nbsp; `Open-source collaboration`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<sub><a href="https://www.linkedin.com/in/hareendra-s">LinkedIn</a> · <a href="mailto:rtgshareen@gmail.com">Email</a> · <a href="https://github.com/hareen2007">GitHub</a> · <a href="https://leetcode.com/u/hareendra_hacker/">LeetCode</a></sub>
+</div>
