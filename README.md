@@ -1,7 +1,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 👋 About Me
 <img align="right" src="https://komarev.com/ghpvc/?username=hareen2007&style=flat-square&color=b57614&label=views" height="25px" alt="profile views" />
-I'm Hareendra — a **full-stack developer** building across **AI, web and ML**.
+I'm Hareendra — a full-stack developer building across AI, web and ML.
 - Obsessed with clean and fast builds
 
 #### I am currently learning 
@@ -13,7 +13,6 @@ I'm Hareendra — a **full-stack developer** building across **AI, web and ML**.
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hareendra-s)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://hareen-resume.vercel.app/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rtgshareen@gmail.com) 
 
 
 # 🏆Experience
