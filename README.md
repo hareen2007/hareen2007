@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Hareendra%20S&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20AI%20and%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=dbeafe&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Hareendra%20S&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Cybersecurity%20Analyst%20%C2%B7%20AI%20and%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=dbeafe&animation=fadeIn" width="100%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/hareendra-s"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -27,7 +27,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=hareen2007&style=flat-square&color=b57614&label=views" height="25px" alt="profile views" />
 
-Computer Science undergraduate at **VIT** (CGPA 7.83/10) and a dual-degree student pursuing a **B.S. in Data Science at IIT Madras**. I build full-stack web applications with the **MERN stack**, and I'm interested in machine learning, AI, cybersecurity, and data structures & algorithms. Recently completed a MERN web development internship at Archer WebSol, and currently looking for an entry-level software development role where I can learn fast and ship practical software.
+Computer Science undergraduate at **VIT**  and a dual-degree student pursuing a **B.S. in Data Science at IIT Madras**. I build full-stack web applications with the **MERN stack**, and I'm interested in machine learning, AI, cybersecurity, and data structures & algorithms. Recently completed a MERN web development internship at Archer WebSol, and currently looking for an entry-level software development role where I can learn fast and ship practical software.
 
 <br>
 
@@ -132,7 +132,7 @@ A web-based invoice management application for creating and managing invoices, w
 
 <br>
 
-## 📊 LeetCode & GitHub Stats
+## 📊 LeetCode 
 
 <div align="center">
 
@@ -142,9 +142,16 @@ A web-based invoice management application for creating and managing invoices, w
   <img alt="Snake animation" src="https://raw.githubusercontent.com/hareen2007/hareen2007/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<br><br>
+</div>
+br
 
-<img src="https://leetcard.jacoblin.cool/hareendra_hacker?theme=dark&font=baloo2" width="500" />
+## GitHub Stats
+<div align="center>
+
+<picture>
+    <img src="https://leetcard.jacoblin.cool/hareendra_hacker?theme=dark&font=baloo2" width="500" />
+
+</picture>
 
 <br><br>
 
