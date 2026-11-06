@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Hareendra%20S&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=dbeafe&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Hareendra%20S&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20AI%20and%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=dbeafe&animation=fadeIn" width="100%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/hareendra-s"><img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rtgshareen@gmail.com"><img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/hareen2007"><img src="https://img.shields.io/badge/GitHub-1e40af?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/hareen2007"><img src="https://img.shields.io/badge/GitHub-1e40af?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/hareendra_hacker/"><img src="https://img.shields.io/badge/LeetCode-1e3a8a?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://hareen-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
@@ -14,7 +13,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=const+developer+%3D+%7B+name%3A+%22Hareendra%22+%7D%3B;building+full-stack+apps+with+the+MERN+stack;exploring+AI%2C+ML+%26+cybersecurity;solving+DSA+problems+on+LeetCode;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=const+developer+%3D+%7B+name%3A+%22Hareendra%22+%7D%3B;building+full-stack+apps+with+the+MERN+stack;exploring+AI%2C+ML+and+cybersecurity;solving+DSA+problems+on+LeetCode;console.log(%22Let's+build+something+great%22)%3B" alt="Typing SVG" />
 
 <br>
 
@@ -52,7 +51,7 @@ Computer Science undergraduate at **VIT** (CGPA 7.83/10) and a dual-degree stude
 
 <img src="https://img.shields.io/badge/React%2019-1e40af?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-1e40af?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-1e40af?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-1e40af?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-1e40af?style=flat-square&logo=mongodb&logoColor=white" />
 
-**[Live Demo →](https://your-billify-deployment-link)** · **[GitHub Repo →](https://github.com/hareen2007/your-billify-repo)**
+**[Live Demo →](https://your-billify-deployment-link)** · **[GitHub Repo →](https://github.com/hareen2007/billify)**
 
 A web-based invoice management application for creating and managing invoices, with database integration and a responsive user interface.
 
@@ -113,7 +112,7 @@ A web-based invoice management application for creating and managing invoices, w
 
 ## 🎓 Education
 
-- **B.Tech, Computer Science** — Vellore Institute of Technology · 2024 – 2028 · CGPA 7.83 / 10
+- **B.Tech, Computer Science** — Vellore Institute of Technology · 2024 – 2028 
 - **B.S., Data Science** — Indian Institute of Technology Madras · 2024 – 2028
 
 <br>
@@ -127,9 +126,9 @@ A web-based invoice management application for creating and managing invoices, w
 
 ## 📜 Certifications
 
-- **Web Development Internship** — Archer WebSol (2026) — [View Certificate →](https://drive.google.com/file/d/12vCvvHKze4oIIX4_fLvXnPNTT-OItpok/view?usp=drive_link)
-- **SQL Certification** — HackerRank (2026) — [View Certificate →](https://drive.google.com/file/d/1-tzmUrrD_XHWlIsPHAFZ_PgaaU4EZoii/view?usp=drive_link)
-- **AWS Cloud Foundations** (2026) — [View Certificate →](https://drive.google.com/file/d/1JreuIZXYP7W2lwp8QkyZ6sITCzJAxa-K/view?usp=drive_link)
+- **Web Development Internship** — Archer WebSol (2026) — [View Certificate →]()
+- **SQL Certification** — HackerRank (2026) — [View Certificate →]()
+- **AWS Cloud Foundations** (2026) — [View Certificate →]()
 
 <br>
 
@@ -151,10 +150,6 @@ A web-based invoice management application for creating and managing invoices, w
 
 <img src="https://streak-stats.demolab.com/?user=hareen2007&theme=dark&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hareen2007&theme=react-dark&hide_border=true&color=c9d1d9&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6" width="100%"/>
-
 </div>
 
 <br>
@@ -174,5 +169,5 @@ Strengthening data structures & algorithms, building more full-stack MERN projec
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=100&section=footer" width="100%"/>
 
 <div align="center">
-<sub><a href="https://www.linkedin.com/in/hareendra-s">LinkedIn</a> · <a href="https://github.com/hareen2007">GitHub</a> · <a href="https://leetcode.com/u/hareendra_hacker/">LeetCode</a> · <a href="https://hareen-resume.vercel.app/">Portfolio</a> ·</sub>
+<sub><a href="https://www.linkedin.com/in/hareendra-s">LinkedIn</a> · <a href="https://hareen-resume.vercel.app/">Portfolio</a> · <a href="https://github.com/hareen2007">GitHub</a> · <a href="https://leetcode.com/u/hareendra_hacker/">LeetCode</a></sub>
 </div>
