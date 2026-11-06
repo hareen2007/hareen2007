@@ -51,7 +51,7 @@ Computer Science undergraduate at **VIT**  and a dual-degree student pursuing a 
 
 <img src="https://img.shields.io/badge/React%2019-1e40af?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-1e40af?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-1e40af?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-1e40af?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-1e40af?style=flat-square&logo=mongodb&logoColor=white" />
 
-**[Live Demo →](https://your-billify-deployment-link)** · **[GitHub Repo →](https://github.com/hareen2007/billify)**
+**[Live Demo →](https://billify1.vercel.app/)** · **[GitHub Repo →](https://github.com/hareen2007/billify)**
 
 A web-based invoice management application for creating and managing invoices, with database integration and a responsive user interface.
 
@@ -135,6 +135,7 @@ A web-based invoice management application for creating and managing invoices, w
 ## 📊 LeetCode 
 
 <div align="center">
+    <p><a href="https://leetcode.com/u/hareendra_hacker/"> View DSA Progress</a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hareen2007/hareen2007/output/github-contribution-grid-snake-dark.svg" />
@@ -143,9 +144,9 @@ A web-based invoice management application for creating and managing invoices, w
 </picture>
 
 </div>
-br
 
-## GitHub Stats
+
+## 📊 GitHub Stats
 <div align="center>
 
 <picture>
